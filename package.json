@@ -5,7 +5,7 @@
   "homepage": "",
   "proxybk": "https://10.18.168.98:8098/",
   "proxy1": "https://localhost:8098/",
-  "proxy": "https://20.221.4.7:8098/",
+  "proxy2": "https://20.221.4.7:8098/",
   "dependencies": {
     "-": "^0.0.1",
     "@popperjs/core": "^2.11.5",
