@@ -10,8 +10,8 @@ on:
   workflow_dispatch:
   
 env:   
-  ENABLE_ORYX_BUILD: 'true'
-  SCM_DO_BUILD_DURING_DEPLOYMENT: 'true'
+  ENABLE_ORYX_BUILD: 'TRUE'
+  SCM_DO_BUILD_DURING_DEPLOYMENT: 'FALSE'
   
   
 jobs:
