@@ -12,7 +12,7 @@ on:
 env:   
   ENABLE_ORYX_BUILD: 'TRUE'
   SCM_DO_BUILD_DURING_DEPLOYMENT: 'TRUE'
-  
+
 
 jobs:
   build:
