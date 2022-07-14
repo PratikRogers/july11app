@@ -5,7 +5,7 @@
   "homepage": "",
   "proxybk": "https://10.18.168.98:8098/",
   "proxys": "https://localhost:8098/",
-  "proxy": "https://10.73.186.42:8080/",
+  "proxyr": "https://10.73.186.42:8080/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
