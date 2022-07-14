@@ -8,6 +8,10 @@ on:
     branches:
       - main
   workflow_dispatch:
+  
+env:   
+  ENABLE_ORYX_BUILD: 'true'
+  SCM_DO_BUILD_DURING_DEPLOYMENT: 'true'
 
 jobs:
   build:
